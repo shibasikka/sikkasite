@@ -2442,11 +2442,7 @@ footer.bg-pattern {
     }
 
     #paws-image {
-        margin-top: -150px;
+        margin-top: -50px;
         z-index: 0;
-    }
-
-    #buy-sikka {
-        z-index: 1;
     }
 }

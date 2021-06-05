@@ -2436,17 +2436,8 @@ footer.bg-pattern {
     margin-bottom: 34px;
 }
 
-@media (max-width: 440px){
+@media (max-width: 640px){
     #logo-text {
         display: none;
-    }
-
-    #paws-image {
-        margin-top: -150px;
-        z-index: 0;
-    }
-
-    #buy-sikka {
-        z-index: 1;
     }
 }

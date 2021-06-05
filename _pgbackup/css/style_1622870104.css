@@ -2440,13 +2440,4 @@ footer.bg-pattern {
     #logo-text {
         display: none;
     }
-
-    #paws-image {
-        margin-top: -150px;
-        z-index: 0;
-    }
-
-    #buy-sikka {
-        z-index: 1;
-    }
 }
